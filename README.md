@@ -42,6 +42,7 @@ The program displays:
 - Blue inner points
 - Green convex hull points
 - Red boundary lines
+<img width="717" height="412" alt="output" src="https://github.com/user-attachments/assets/65687f9b-1d24-4a76-8d3c-24ae868395eb" />
 
 ---
 
